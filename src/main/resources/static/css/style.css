@@ -1,0 +1,23 @@
+h2{
+    font-size: 28px;
+    background-color: green;
+    color:white;
+    padding:6px 0;
+}
+
+.btn{
+    border:2px solid green;
+    padding:4px 20px;
+    font-size: 20px;
+    color: green;
+    cursor: pointer;
+}
+
+.btn:hover{
+    color: #fff;
+    background:green;
+}
+
+input.comment{
+    width:400px;
+}
